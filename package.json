@@ -1,5 +1,5 @@
 {
-  "name": "herokupad",
+  "name": "Wooden Wheels",
   "version": "0.0.1",
   "description": "",
   "main": "web.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/talexand/etherpad-lite.git"
+    "url": "https://github.com/zonakyle/woodenwheels-v3.git"
   },
   "keywords": [
     "heroku",
     "etherpad"
   ],
-  "author": "trevor-alexander",
+  "author": "kyle adams",
   "license": "GPL",
   "bugs": {
     "url": "https://github.com/talexand/etherpad-lite/issues"
