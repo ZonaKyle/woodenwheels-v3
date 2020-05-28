@@ -18,11 +18,11 @@
     "etherpad"
   ],
   "author": "kyle adams",
-  "license": "0BSD",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/talexand/etherpad-lite/issues"
+    "url": "https://woodenwheels-v3.herokuapp.com/"
   },
-  "homepage": "https://github.com/talexand/etherpad-lite",
+  "homepage": "",
   "dependencies": {
     "jquery": "^1.9.1",
     "mkdirp": "^0.5.0",
