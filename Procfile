@@ -1,1 +1,1 @@
-web: ./start.bat
+web: .\etherpad-lite\start.bat
