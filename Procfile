@@ -1,1 +1,1 @@
-web: ./preparse.rb
+web: ./start.bat
