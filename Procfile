@@ -1,1 +1,1 @@
-web: .\etherpad-lite\start.bat
+web: ./preparse.rb
